@@ -74,3 +74,9 @@ the problem is booking , about the relationship !!! , check the migrate 20/05/20
 05/28/2025
 
 Number of people booking tour error , slot is 2 but booking can book 3
+
+
+
+host in render 
+name of varible : DB_password
+password : e97815a53ad3f60922a977fd92a65581
